@@ -3,7 +3,7 @@
 
     $obj = new Pessoa();
 
-    $obj->setName("Edson");
+    $obj->setName("Edson Silva Barreto");
 
     echo($obj->getName());
 
