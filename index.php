@@ -3,7 +3,7 @@
 
     $obj = new Pessoa();
 
-    $obj->setName("Edson Silva Barreto");
+    $obj->setName("Aplicação Plena Digital");
 
     echo($obj->getName());
 
